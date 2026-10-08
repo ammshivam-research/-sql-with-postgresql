@@ -1,2 +1,2 @@
-# • sql-with-postgresql
+# sql-with-postgresql
 
