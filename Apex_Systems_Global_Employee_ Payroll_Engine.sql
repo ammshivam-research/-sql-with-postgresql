@@ -30,6 +30,3 @@ VALUES
 
 INSERT INTO apex_employees(emp_id,emp_name,work_email,department)
 VALUES(105,'Sundar Kumar','sundarkumar234@gmail.com','Data Science');
-
-
-
